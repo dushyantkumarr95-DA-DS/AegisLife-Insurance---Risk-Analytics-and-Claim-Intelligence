@@ -136,14 +136,14 @@ After ingestion SQL analysis was performed across eight major business areas:
 
 # 4. Business Problems identified and Possible Solutions
 ### Problem 1: Premium do not reflect risk.
-Average premium value remains nearly flat across risk bands, while claims and lapses climb sharply. Low-risk vs high-risk premium ₹28262.81/- vs ₹28349.59/- (↑0.3%); claim per policy 0.40 vs 0.56 (↑40%).
+Average premium value remains nearly flat across risk bands, while claims and lapses climb sharply. Low-risk vs high-risk premium ₹28262.81/- vs ₹28349.59/- (↑0.3%); claim per policy 0.40 vs 0.56 (↑40%). <br>
 **Possible Solutions:**
 - Introduce risk-based premiums, with surcharge for smoking and pre-existing illness.
 - Reprice Health insurance first, where medical risk matters most.
 - Offer non-smoker and wellness discounts to keep low-risk customers.
 
 ### Problem 2: Claims backlog and a poor claim experience.
-482 claims (34.28%) are pending. Claimants satisfaction score 2.94 vs 3.35 for non-claimant, and “waited too long for approval” scores 1.40.
+482 claims (34.28%) are pending. Claimants satisfaction score 2.94 vs 3.35 for non-claimant, and “waited too long for approval” scores 1.40. <br>
 **Possible Solutions:**
 - Collect all documents in one checklist during claim request.
 - Fast-track low value, unflagged claims and reserve senior review for high-value or flagged ones.
@@ -151,14 +151,14 @@ Average premium value remains nearly flat across risk bands, while claims and la
 
 ### Problem 3: Fraud and agent concentration.
 ₹0.96 Cr of approved payouts went to flagged claims, and 78 of 161 flags are still pending, so the money can still be stopped. <br>
-AGT5001 has 9 of 14 claims flagged (64% fraud ratio) against an 11.45% base rate, and is the second largest seller (18 policies).  CUST10526 has 4 flagged claims. Risk score does not predict fraud.
+AGT5001 has 9 of 14 claims flagged (64% fraud ratio) against an 11.45% base rate, and is the second largest seller (18 policies).  CUST10526 has 4 flagged claims. Risk score does not predict fraud. <br>
 **Possible Solutions:**
 - Freeze payout on flagged claims.
 - Audit the top-flagged agents and review their policy issuance.
 
 ### Problem 4: High policy lapse rate.
 798 lapsed and 237 cancelled policies are associated with about ₹2.93 Cr or annual premium (₹2.26 Cr +₹ 0.67 Cr). <br>
-High-risk customers lapse at 36.39%, students at 30.62%, Vehicle and Term at about 29-30%.
+High-risk customers lapse at 36.39%, students at 30.62%, Vehicle and Term at about 29-30%. <br>
 **Possible Solutions:**
 - Payment reminders 30 and 7 days before due date, with auto debit and monthly or quarterly premium options for students.
 - Retention calls for high-risk and Vehicle/term holders before payment.
@@ -166,13 +166,13 @@ High-risk customers lapse at 36.39%, students at 30.62%, Vehicle and Term at abo
 
 ### Problem 5: Inconsistent growth and an untapped customer pool.
 Acquisition has been flat at about 280 customers a year since 2021, and 429 customers (26%) hold no policy. <br>
-North-east conversion rate at 70.94% followed by South and Central. Existing policy holders average 2.32 policies, so cross-sell works.
+North-east conversion rate at 70.94% followed by South and Central. Existing policy holders average 2.32 policies, so cross-sell works. <br>
 **Possible Solutions:**
 - Targeted offers to the 429 non-policy holders.
 - Bundled policy offers.
 
 ### Problem 6: Death claims domination.
-270 death claims carry ₹28.77 Cr and ₹4.05 Cr of the ₹7.5 Cr fraud exposure (54%).
+270 death claims carry ₹28.77 Cr and ₹4.05 Cr of the ₹7.5 Cr fraud exposure (54%). <br>
 **Possible Solution:**
 - Set stricter documentation and investigation for Death claims
 
