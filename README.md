@@ -175,3 +175,5 @@ North-east conversion rate at 70.94% followed by South and Central. Existing pol
 270 death claims carry ₹28.77 Cr and ₹4.05 Cr of the ₹7.5 Cr fraud exposure (54%).
 **Possible Solution:**
 - Set stricter documentation and investigation for Death claims
+
+---
